@@ -1,0 +1,50 @@
+.main-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div-deco {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  padding: 15px;
+}
+.input-deco {
+  border-color: #475569;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 7px;
+}
+.button-deco {
+  color: white;
+  background-color: #0284c7;
+  border-radius: 5px;
+  padding: 7px 13px;
+  border: 0px;
+}
+.background {
+  padding: 15px;
+  margin: 30px;
+}
+
+.heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 8px;
+}
+
+.comments-count {
+  text-align: center;
+  color: #ffffff;
+  background-color: #0284c7;
+  font-size: 12px;
+  font-family: 'Roboto';
+  border-radius: 4px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 8px;
+  margin-right: 4px;
+}
